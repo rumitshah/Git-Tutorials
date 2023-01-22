@@ -24,6 +24,3 @@ Integrating FreeRTOS in s32DS
 
 27-09-22
 Integrating LWIP stcak in s32DS
-
-29-09-22
-Integrating LWIP stack with ethernet example in s32DS
