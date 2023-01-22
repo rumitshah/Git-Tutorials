@@ -1,0 +1,6 @@
+
+C:\Users\146667\projects\ABS\BMS\source\BMS-master\stacks\tcpip\code
+C:\Users\146667\projects\ABS\BMS\source\BMS-master\stacks\tcpip\code\ports\netif\gmacif\rtd
+C:\Users\146667\projects\ABS\BMS\source\BMS-master\stacks\tcpip\code\ports\OS
+C:\Users\146667\projects\ABS\BMS\source\BMS-master\stacks\tcpip\code\ports\osif\rtd
+C:\Users\146667\projects\ABS\BMS\source\BMS-master\stacks\tcpip\code\ports\platform\generic\gcc\setting

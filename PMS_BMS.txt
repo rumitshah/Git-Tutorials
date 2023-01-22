@@ -1,0 +1,32 @@
+20-09-22
+Setting up s32DS sofrware
+
+21-09-22
+Integrating mqtt and freetos in s32DS
+
+19-09-22
+EMS side parsing using json
+
+16-09-22
+communication between linux pc and rpi using mosquitto broker in local network
+
+15-09-22
+setting up paho-mqtt-c library in linux and rpi
+
+22-09-22
+SCA in pyure
+
+23-09-22
+SCA in pyure
+
+26-09-22
+Integrating FreeRTOS in s32DS
+
+27-09-22
+Integrating LWIP stcak in s32DS
+
+27-09-22
+Leave
+
+29-09-22
+Integrating LWIP stack with ethernet example in s32DS
