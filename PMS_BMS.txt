@@ -23,4 +23,4 @@ SCA in pyure
 Integrating FreeRTOS in s32DS
 
 27-09-22
-Integrating LWIP stcak in s32DS
+Integrating LWIP stack in s32DS
